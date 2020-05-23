@@ -35,3 +35,5 @@ le code requiert les **bibliothèques** :
     // EN       -       pin 4 TFT_RST   
     // 3.3V             pin 1 TFT_VDD
 
+![proto1](/noise_bb.png)  ![proto2](/noisefft.jpeg)
+ 
